@@ -22,5 +22,4 @@ Please have our website hosted here: <https://atlas-ware.github.io/Challenge01/>
 
 Please have the website resemble something like this (this image was created by our graphic designers):
 
-
-<img src="/Users/ignacioalbistu/Documents/UCF/Week02/Challenge01/assets/images/WebsiteDemo.png" width="auto" height="auto">
+![Demo](https://github.com/Atlas-Ware/Challenge01/blob/main/assets/images/WebsiteDemo.png?raw=true)
