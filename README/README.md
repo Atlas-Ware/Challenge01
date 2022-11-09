@@ -1,8 +1,19 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Horiseon
 
-## Challenges in This Course
+## About Us
 
-There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
+### We are a public relations firm that specialzes in companies online image.
+### We help companies with Search Engine Optimization (SEO) to 
+### allow them to increase their visibility online and find the right customers for their business.
+### We also help companies with Online Reputation Management,
+### which gives them the control over what potential customers see when they search for their business.
+### Lastly, social media marketing helps businesses determine which platforms are suited to their brand, 
+### using analytics to find the right markets and increase companies lead generation.
+
+
+## what we want for our website
+
+Horiseon wnats a 1 page website that explains what we do in greater detail (About Us). We want a website
 
 ### Challenge Types 
 
