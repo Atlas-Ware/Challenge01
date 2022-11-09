@@ -49,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/*changed this class to the element figure*/
 figure {
     height: 800px;
     width: 100%;
