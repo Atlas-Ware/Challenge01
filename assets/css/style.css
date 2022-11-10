@@ -31,6 +31,7 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 /*took away nav li as seperate code and 
 added it to the code below*/
 nav ul, li {
@@ -38,7 +39,6 @@ nav ul, li {
     display: inline-block;
     margin-left: 25px;
 }
-
 
 a {
     color: #ffffff;
@@ -81,6 +81,7 @@ class search etc. to artcile.
 i also moved this code up from the 
 bottom so that the code is structured 
 the same as the HTML*/
+
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -144,7 +145,6 @@ I then delted the code that was redundant*/
     margin-bottom: 10px;
     text-align: center;
 }
-
 
 /* moved IDs brand & cost to code below.
 I then delted the code that was redundant*/
