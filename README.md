@@ -22,4 +22,4 @@ Please have our website hosted here: <https://atlas-ware.github.io/Challenge01/>
 
 Please have the website resemble something like this (this image was created by our graphic designers):
 
-![Demo](https://github.com/Atlas-Ware/Challenge01/blob/main/assets/images/WebsiteDemo.png?raw=true)
+![Demo](Main/assets/images/WebsiteDemo.png)
